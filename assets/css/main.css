@@ -4696,7 +4696,7 @@ input, select, textarea {
 
 	}
 
-	.skills li i {
+	i {
 		height: 50px;
 		width: 50px;
 	}
