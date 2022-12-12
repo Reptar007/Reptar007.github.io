@@ -72,7 +72,7 @@ input, select, textarea {
 	appearance: none;
 }
 
-.message {
+#message {
 	resize: none;
 }
 
@@ -4697,7 +4697,7 @@ input, select, textarea {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
 		list-style: none;
-
+		gap: 20px;
 	}
 
 	li i {
