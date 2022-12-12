@@ -4696,7 +4696,6 @@ input, select, textarea {
 
 	}
 
-	i {
-		height: 50px;
-		width: 50px;
+	li i {
+		scale: 1.5;
 	}
