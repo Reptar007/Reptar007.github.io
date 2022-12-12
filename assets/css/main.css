@@ -4688,3 +4688,13 @@ input, select, textarea {
 		}
 
 	}
+
+	.skills {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+
+	.skills i {
+		height: 50px;
+		width: 50px;
+	}
